@@ -1,1 +1,1 @@
-# Balancing Tradeoff Between Fickleness and Obstinacy in NLP Models
+# Balanced Adversarial Training: Balancing Tradeoff between Fickleness and Obstinacy in NLP Models
